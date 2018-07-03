@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "memdb-client": "~0.5.7",
-        "lodash": "~3.10.1",
+        "lodash": "~4.17.5",
         "underscore": "~1.8.2",
         "grunt-cli": "~0.1.13",
         "require-directory": "~2.1.1",
